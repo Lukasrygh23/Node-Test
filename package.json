@@ -1,0 +1,14 @@
+{
+  "name": "lukas-package-1",
+  "version": "1.0.0",
+  "description": "Demo Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lukas",
+  "license": "ISC",
+  "dependencies": {
+    "buzzphrase": "^3.1.1"
+  }
+}
